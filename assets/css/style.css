@@ -396,7 +396,7 @@ section {
 }
 .section-title h2 {
   font-size: 36px;
-  font-weight: 300;
+  font-weight: 900;
   margin-bottom: 20px;
   padding-bottom: 0;
   color: #3A4750;
@@ -462,9 +462,17 @@ section {
 # About
 --------------------------------------------------------------*/
 .about h3 {
-  font-weight: 400;
+  font-weight: 900;
   font-size: 34px;
   color: #3A4750;
+  text-align: center;
+  /* margin-top: 150px; */
+}
+.about p {
+  font-size: 20px;
+  color: #3A4750;
+  padding-top: 20px;
+  text-align: center;
 }
 .about .icon-box {
   margin-top: 44px;
@@ -733,6 +741,7 @@ section {
   overflow: hidden;
   z-index: 1;
   background: rgba(0, 0, 0, 0.6);
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 .portfolio .portfolio-wrap::before {
   content: "";
@@ -1064,6 +1073,10 @@ section {
   font-size: 14px;
   color: #ebad57;
 }
+/* .contact .map {
+  border: 5px solid;
+  border-color: #fff;
+} */
 .contact .info .email p {
   padding-top: 5px;
 }
