@@ -36,7 +36,7 @@
     <div class="container d-flex justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html">Surya Perkasa</a></h1>
+        <h1><a href="index.html">Surya <span>Perkasa</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
@@ -244,7 +244,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Kami melayani beberapa kategori laya.</p>
         </div>
 
         <div class="row justify-content-center">
@@ -252,7 +252,7 @@
             <div class="icon-box icon-box-pink">
               <div class="icon"><i class="bx bx-laptop"></i></div>
               <h4 class="title"><a href="">Web App</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate</p>
+              <p class="description">Meliputi Pengembangan Website, Aplikasi Berbasis Web, Jasa Domain & Hosting</p>
             </div>
           </div>
 
@@ -260,7 +260,7 @@
             <div class="icon-box icon-box-cyan">
               <div class="icon"><i class="bx bx-mobile"></i></div>
               <h4 class="title"><a href="">Mobile App</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
+              <p class="description">Meliputi Aplikasi Android/iOS, Aplikasi Berintegrasi Web-App</p>
             </div>
           </div>
 
@@ -268,7 +268,7 @@
             <div class="icon-box icon-box-green">
               <div class="icon"><i class="bx bxs-buildings"></i></div>
               <h4 class="title"><a href="">Company Profile</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim</p>
+              <p class="description">Desain & Pengembangan Company Profile Landing Page</p>
             </div>
           </div>
 
@@ -381,7 +381,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Dibawah ini adalah beberapa <i>projects</i> yang telah kami kerjakan.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -405,7 +405,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/Portfolio_5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -419,7 +419,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/Portfolio_1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -461,7 +461,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/Portfolio_2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -517,7 +517,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/Portfolio_3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -531,7 +531,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/Portfolio_4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
                 </div>
               </div>
             </div>
@@ -562,7 +562,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Temui Tim Kami.</p>
         </div>
         <div class="row justify-content-center">
           <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up">
@@ -584,7 +584,7 @@
           </div>
           <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
-              <img src="assets/img/team/dummy-member.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/deni.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Deni Wibowo</h4>
@@ -604,7 +604,7 @@
         <div class="row justify-content-center">
           <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up">
             <div class="member">
-              <img src="assets/img/team/dummy-member.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/alan.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Alan Lengkoan</h4>
@@ -638,7 +638,7 @@
           </div>
           <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
-              <img src="assets/img/team/dummy-member.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/lam.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Ilham Darmawan</h4>
@@ -728,7 +728,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Mari diskusi tentang <i>project</i> anda. Hubungi kami melalui beberapa pilihan kontak dibawah.</p>
         </div>
 
         <div class="row no-gutters justify-content-center" data-aos="fade-up">
@@ -823,12 +823,12 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Portfolio</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Team</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Contact</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Portfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#team">Team</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
             </ul>
           </div>
 
